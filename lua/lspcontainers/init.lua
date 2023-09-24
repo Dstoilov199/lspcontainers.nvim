@@ -54,6 +54,7 @@ local supported_languages = {
   intelephense = { image = "docker.io/lspcontainers/intelephense" },
   jsonls = { image = "docker.io/lspcontainers/json-language-server" },
   omnisharp = { image = "docker.io/lspcontainers/omnisharp" },
+  phpactor = { image = "neovim-lsp-workarounds/phpactor" },
   powershell_es = { image = "docker.io/lspcontainers/powershell-language-server" },
   prismals = { image = "docker.io/lspcontainers/prisma-language-server" },
   pylsp = { image = "docker.io/lspcontainers/python-lsp-server" },
